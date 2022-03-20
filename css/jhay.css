@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+.ff{
+    background-color: #3C3C3C;
+    ;
+}
+
+.fg{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+}
+fa-smile{
+    color: yellow ;
+
+}
+
+.fgg{
+font-family: 'Nunito', sans-serif;
+font-size: 25px;
+text-align: center;
+color: white;
+font-weight: 300;
+
+
+}
+
+.guy{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-weight: 600;  
+    margin: 110px;
+   
+}
+
+.ddd{
+    padding:10px  10px ;
+}
+
+.bush{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+    /* text-align: ; */
+    color: white;
+    font-weight: 600;  
+   
+}
+
+.active{
+    background-color: blue;
+    color: blue;
+}
+
+.brand-logo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+    /* text-align: ; */
+    color: white;
+    font-weight: 600;  
+   
+}
+.fmf{
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 100;
+    cursor: pointer;
+    
+}
+
+
+#sec{
+background-color:#3C3C3C ;
+}
+
+#btnDown{
+    transition: all 3.5s ease-in;
+    /* transition: ease-in; */
+}
+
+.ddm{
+    padding: 10px;
+}
+.sidenav{
+    background-color: white;
+    color: white;
+}
+
+.sds{
+    text-align:right;
+    padding-right: 115px;
+    
+}
+
+.foot{
+    padding: 20px;
+    padding-left:115px ;
+}
+.beicon{
+    padding: 20px;
+}
+
+.belogo{
+    padding: 20px;
+}
+.say{
+    padding-left: 150px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .sds{
+        padding-right: 0;
+        text-align: center;
+    }
+    .foot{
+        text-align: center;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+        padding: 0;
+    }
+    .foots{
+        margin:1px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+        padding: 0;
+    }
+
+    .beicon{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+    }
+    .icon{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 30px 5px 0 15px;
+    }
+    .say{
+        padding-left: 0;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .ssf{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .belogo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+    }
+.kk{
+    padding: 60px 0;
+}
+  
+}
+
+
+@media only screen and (max-width: 768px){
+    .kk{
+        padding: 60px 0;
+    }
+       
+       
+}
