@@ -122,10 +122,10 @@ background-color:#3C3C3C ;
     .guy{
         font-family: 'Nunito', sans-serif;
         font-size: 20px;
-        /* text-align: center; */
+        text-align: center;
         color: white;
         font-weight: 600;  
-        /* margin: 110px; */
+        margin: 110px 0px;
        
     }
     .fgg{
